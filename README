@@ -4,12 +4,12 @@ About Memcache
 
 Memcache is a server designed to store key=>value pairs in memory.
 
-Memcache has no support for namespace but using a special naming
+Memcache has no support for namespace but by using a special naming
 convention and one extra variable we can create some sort of
 virtual namespaces. 
 
-Why have namespace?
+Why have namespaces?
 -------------------
 
-Because it's nice to fine-grained cache invalidation control.
+Because it's nice to have fine-grained cache invalidation control.
 
