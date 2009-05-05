@@ -1,0 +1,5 @@
+
+A modified version of the standard python memcache client with namespaces.
+
+By using namespace you can have a fine-grained control over cache invalidation.
+
